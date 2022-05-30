@@ -1,5 +1,5 @@
 # DesafioDio-github-primeiro-repositorio 😃
-Desafio do primeiro repositório GirHub 
+Desafio do primeiro repositório GitHub 
 
 ## Links Uteis
 
